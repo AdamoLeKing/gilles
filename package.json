@@ -11,7 +11,8 @@
   "dependencies": {
     "discord.js": "^14.15.2",
     "dotenv": "^16.4.5",
-    "nodemon": "^3.1.0",
-    "ollama": "^0.5.1"
+    "nodemon": "^3.1.7",
+    "ollama": "^0.5.1",
+    "translate": "^3.0.1"
   }
 }
